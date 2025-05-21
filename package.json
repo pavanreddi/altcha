@@ -99,7 +99,7 @@
     "vitest": "^3.0.8"
   },
   "dependencies": {
-    "@altcha/crypto": "^0.0.1"
+    "@altcha/crypto": "^0.0.2"
   },
   "optionalDependencies": {
     "@rollup/rollup-linux-x64-gnu": "4.18.0"
